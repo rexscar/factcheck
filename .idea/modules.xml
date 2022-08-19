@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/twitterchirp.iml" filepath="$PROJECT_DIR$/.idea/twitterchirp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/twitter_chirp.iml" filepath="$PROJECT_DIR$/.idea/twitter_chirp.iml" />
     </modules>
   </component>
 </project>

@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-8h4qr6q%ww4b#l6q!iqbdioopzr0cx7#^69nls1&i0nx()iy(c
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '1f8c-196-11-90-118.eu.ngrok.io'
+    '1f8c-196-11-90-118.eu.ngrok.io',
+    '127.0.0.1',
 ]
 
 
@@ -40,6 +41,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'serpSearch',
+    'socials',
+    'User',
 ]
 
 MIDDLEWARE = [

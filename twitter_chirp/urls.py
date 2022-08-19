@@ -20,4 +20,5 @@ from django.urls import path,include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('serpSearch/',include('serpSearch.urls')),
+    path('User/',include('User.urls'))
 ]
